@@ -1,2 +1,3 @@
-# PrepCourse-Henry
-este es un repositorio prueba del modulo 2 de PrepCourse de Henry
+juan pablo arias cardona
+
+este proyecto es una prueba de como crear un reposito y clonarlo desde gitgub a mi computadora
